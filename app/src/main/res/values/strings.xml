@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">yat730QuizApp</string>
+
+    <string-array name="items">
+        <item>please select</item>
+        <item>cairo</item>
+        <item>tokio</item>
+        <item>bejing</item>
+        <item>ws</item>
+        <item>baghdad</item>
+        <item>khartoum</item>
+        <item>london</item>
+        <item>toronto</item>
+        <item>paris</item>
+    </string-array>
+</resources>
